@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"); 
 
 :root { 
-  --cor-destaque: #ed145b; 
+  --cor-destaque: #3fed14; 
   --cor-gradiente-preto: linear-gradient( 
     113deg, 
     #000 0%, 
@@ -14,7 +14,7 @@
 * { 
   margin: 0; 
   padding: 0; 
-  font-family: Montserrat; 
+  font-family: Helvetica; 
 } 
 
 body { 
